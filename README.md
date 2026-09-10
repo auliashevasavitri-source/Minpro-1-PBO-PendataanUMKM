@@ -84,7 +84,8 @@ Program menerapkan:
 
 #### Menu Utama
 
-Tambahkan screenshot tampilan menu utama di sini.
+<img width="161" height="106" alt="Cuplikan layar 2026-09-10 223525" src="https://github.com/user-attachments/assets/78a1c4c0-e02a-4647-a2e2-c102aab38cb3" />
+
 
 #### Tambah Data UMKM
 
@@ -93,7 +94,3 @@ Tambahkan screenshot saat melakukan proses tambah data UMKM di sini.
 #### Tampilkan Data UMKM
 
 Tambahkan screenshot hasil data UMKM yang telah ditambahkan di sini.
-
-#### Ubah dan Hapus Data UMKM
-
-Tambahkan screenshot saat melakukan proses ubah atau hapus data UMKM di sini.
